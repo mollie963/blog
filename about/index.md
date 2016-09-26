@@ -10,3 +10,4 @@ comments: false
 
 ## About
 * I'm awesome
+* And cool
