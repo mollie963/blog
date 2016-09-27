@@ -5,7 +5,7 @@ description:
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/AnimatedJournal.gif'
-background:         'assets/img/bulletjournalphoto2.jpg'
+background:         'assets/img/bulletjournalphoto3.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://mollie963.github.io/blog/
