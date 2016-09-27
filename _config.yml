@@ -1,10 +1,10 @@
 # Site
-title:              Blog
-bio:                'Molly Servatius'
-description:        "Molly's Blog"
+title:              Adventures in Bullet Journaling
+bio:
+description:
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/Animatedjournal.gif'
+logo:               'assets/img/animatedjournal.gif'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
